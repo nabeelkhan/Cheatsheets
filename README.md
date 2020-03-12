@@ -1,4 +1,4 @@
-### Ping me on - Nabeel Khan](https://www.nabeelkhan.com/datasciencepost/), [LinkedIn](https://www.linkedin.com/in/nabeelkhan/), [Twitter](https://twitter.com/thenabeelkhan/)
+### Ping me on - [Nabeel Khan](https://www.nabeelkhan.com/datasciencepost/), [LinkedIn](https://www.linkedin.com/in/nabeelkhan/), [Twitter](https://twitter.com/thenabeelkhan/)
 
 
 # Data Science Cheatsheets
